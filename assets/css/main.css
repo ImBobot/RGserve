@@ -165,7 +165,10 @@ a{
     background-color: transparent;
     color: var(--clr-dark);
     border-color: var(--clr-grey);
+    top: -30px;
+    left: -30px;
 }
+
 
 .btn-secondary{
     margin-top: 10px;
@@ -180,6 +183,7 @@ a{
     color: var(--clr-white);
     border-color: var(--clr-green);
 }
+
 
 .btn-group button:first-child, .btn-group a:first-child{
     margin-right: 1rem!important;
