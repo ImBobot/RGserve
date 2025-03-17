@@ -33,7 +33,6 @@ body{
 
 button{
     border: none;
-    padding: 10px;
     background-color: transparent;
     outline: 0;
     cursor: pointer;
@@ -169,6 +168,7 @@ a{
 }
 
 .btn-secondary{
+    margin-top: 10px;
     background-color: transparent;
     color: var(--clr-dark);
     border: 1px solid var(--clr-grey);
